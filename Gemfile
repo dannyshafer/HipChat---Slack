@@ -33,6 +33,8 @@ gem 'httparty'
 gem 'dotenv-rails'
 
 gem 'slack-poster'
+
+gem 'hipchat'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
