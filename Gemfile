@@ -31,6 +31,8 @@ gem 'httparty'
 # Use Unicorn as the app server
 # gem 'unicorn'
 gem 'dotenv-rails'
+
+gem 'slack-poster'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
